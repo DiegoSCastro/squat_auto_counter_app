@@ -1,0 +1,1 @@
+# squat_auto_counter_app
